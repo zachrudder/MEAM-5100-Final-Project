@@ -7,6 +7,7 @@ We used an ESP32 S2 Saola 1 board for our robot. We used 2 Time of Flight sensor
 for localization. The robot was controlled from a custom webpage over Wi-Fi. UDP communication was used to receive the coordinates of a target object the robot had to locate, move to, 
 and then move 10 inches.
 
-<video src="https://drive.google.com/uc?id=1YkIFjRe0YPl5AZdIKdeFspM_RymJJNJw" controls width="600"></video>
+[Watch the demo](https://drive.google.com/file/d/1YkIFjRe0YPl5AZdIKdeFspM_RymJJNJw/view?usp=sharing)
+
 
 
